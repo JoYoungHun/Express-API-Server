@@ -1,0 +1,5 @@
+# Ignore node_modules folder
+/Express-API-Server1/express-test/node_modules/
+/Express-API-Server2/express-test/node_modules/
+/Express-API-Server3/express-test/node_modules/
+/Express-API-Server4/express-test/node_modules/
